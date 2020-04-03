@@ -1,8 +1,11 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'ALVIAN DWI PRAMUDYA'
+subtitle: 'WELCOME
+TO MY
+MESSY
+PLAYGROUND'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm Computer Science, Student and supporter Of Persija Jakarta, From Klaten Regency
