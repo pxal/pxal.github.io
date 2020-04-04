@@ -1,15 +1,10 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Facebook'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
-tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+external: 'https://facebook.com/xempyang'
+
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+follow and let's have fun on Facebook
