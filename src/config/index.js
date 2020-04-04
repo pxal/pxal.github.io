@@ -20,11 +20,11 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: '#',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: '#',
     },
     {
       name: 'Instagram',
@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: '#',
     },
   ],
 
