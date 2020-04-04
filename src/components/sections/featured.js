@@ -216,7 +216,7 @@ const Featured = ({ data }) => {
 
   return (
     <StyledContainer id="projects">
-      <Heading ref={revealTitle}>You can find me on</Heading>
+      <Heading ref={revealTitle}>Some Things I&apos;ve Built</Heading>
 
       <div>
         {featuredProjects &&
@@ -227,7 +227,7 @@ const Featured = ({ data }) => {
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <StyledContent>
-                  <StyledLabel>Social Media</StyledLabel>
+                  <StyledLabel>Featured Project</StyledLabel>
                   <StyledProjectName>
                     {external ? (
                       <a
