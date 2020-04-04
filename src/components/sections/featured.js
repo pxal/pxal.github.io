@@ -227,7 +227,7 @@ const Featured = ({ data }) => {
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <StyledContent>
-                  <StyledLabel>My Social Media</StyledLabel>
+                  <StyledLabel>Social Media</StyledLabel>
                   <StyledProjectName>
                     {external ? (
                       <a
