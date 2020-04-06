@@ -11,7 +11,7 @@ module.exports = {
   name: 'Alvian Dwi Pramudya',
   location: 'Sleman, Yogyakarta',
   email: 'alvian.1928@yahoo.com',
-  github: 'https://github.com/alvian-art',
+  github: 'https://github.com/pxal',
   twitterHandle: '@bchiang7',
   socialMedia: [
     {
