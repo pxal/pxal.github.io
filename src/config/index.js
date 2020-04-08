@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Alvian.ID | Computer Science',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'I'm Computer Science, Student and supporter Of Persija Jakarta, From Klaten Regency',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://alvian-art.netlify.com',
+    'Alvian, Klaten, Sleman, Computer, PersonalWeb, Javascript, Persija, Supporter',
+  siteUrl: 'https://alvian.tech',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
@@ -12,7 +12,7 @@ module.exports = {
   location: 'Sleman, Yogyakarta',
   email: 'alvian.1928@yahoo.com',
   github: 'https://github.com/pxal',
-  twitterHandle: '@bchiang7',
+  twitterHandle: '#',
   socialMedia: [
     {
       name: 'GitHub',
