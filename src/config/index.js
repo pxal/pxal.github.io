@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Alvian.ID | Computer Science',
   siteDescription:
-    'I'm Computer Science, Student and supporter Of Persija Jakarta, From Klaten Regency',
+    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
     'Alvian, Klaten, Sleman, Computer, PersonalWeb, Javascript, Persija, Supporter',
   siteUrl: 'https://alvian.tech',
