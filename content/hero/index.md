@@ -6,3 +6,4 @@ TO PERSONAL WEBSITE'
 contactText: 'Get In Touch'
 ---
 
+PEMUDA HARAPAN PEMUDI NO DEBAT !!
