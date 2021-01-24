@@ -11,4 +11,4 @@ skills:
   - Sleep
 ---
 
-Hello! I'm Alvian Dwi Pramudya, I'm Computer Science, Student and supporter Of Persija Jakarta, From Klaten Regency
+My name is Alvian. I was born in Klaten on March 30th 2001. I am currently living in Yogyakarta-Klaten. Im Computer Enthusiast and Football Enthusiast.
